@@ -1,0 +1,12 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "12345@mail.ru",
+      "password": "$2a$10$t1gRwkdv8OuQZFlTwRPbveOx6G8JpIK/UvMzg6YxBE6S.6qA8mUi.",
+      "firstname": "Ziyodilla",
+      "lastname": "Jumabaev",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.login-form{
+    position: relative;
+    background-color: #F1F7FE;
+}
+.form-btn{
+    padding: 10px 30px;
+    color: #fff;
+    border: transparent;
+    border-radius: 10px;
+    background-color: #3E4684;
+    transition: all 0.5s ease;
+}
+.form-btn:disabled{
+    background-color: #3E468470;
+}
+.box-eye{
+    position: relative;
+}
+.form-btn-eye{
+    position: absolute;
+    right: 25px;
+    bottom: 26px;
+    width: 25px;
+    height: 25px;
+    border: none;
+    background-color: transparent;
+    background-image: url("../../assets/images/eye.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.active-box{
+    font-size: 14px;
+}
+.active-box + .form-btn-eye{
+    bottom: 50px;
+}
+.form-input{
+    padding: 15px !important;
+    border: transparent !important;
+    border-radius: 20px !important;
+}

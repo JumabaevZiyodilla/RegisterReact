@@ -1,0 +1,28 @@
+.login-form{
+    position: relative;
+    background-color: #F1F7FE;
+}
+.form-btn{
+    padding: 10px 30px;
+    color: #fff;
+    border: transparent;
+    border-radius: 10px;
+    background-color: #3E4684;
+    transition: all 0.5s ease;
+}
+.form-btn:hover{
+    color: #fff;
+    background-color: #3E468470;
+}
+.form-btn-eye{
+    position: absolute;
+    right: 65px;
+    bottom: 120px;
+    width: 25px;
+    height: 25px;
+    border: none;
+    background-color: transparent;
+    background-image: url("../../assets/images/eye.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}

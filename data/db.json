@@ -1,0 +1,47 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "12345@mail.ru",
+      "password": "$2a$10$t1gRwkdv8OuQZFlTwRPbveOx6G8JpIK/UvMzg6YxBE6S.6qA8mUi.",
+      "firstname": "Ziyodilla",
+      "lastname": "Jumabaev",
+      "id": 1
+    },
+    {
+      "email": "2123@mail.ru",
+      "password": "$2a$10$Z.boWaAO3z.5vrEPxTLU1.QHKjs/yu2F1Qqe/VPtaaMIIBUPJGjtS",
+      "firstname": "123",
+      "lastname": "123",
+      "id": 2
+    },
+    {
+      "email": "rashidbek123@mail.ru",
+      "password": "$2a$10$5weWdnXUF2hvkG438v6CAOhf81eM4WJSMpQqi5xBun./Yva28wPh6",
+      "firstname": "Rashidbek",
+      "lastname": "Xoldarov",
+      "id": 3
+    },
+    {
+      "email": "333@mail.ru",
+      "password": "$2a$10$ce3eJ2qsYyS4EOkNT/gJYOhCyG.7b.euyWSFqulP6gydHOdOFH/hu",
+      "firstname": "123",
+      "lastname": "123",
+      "id": 4
+    },
+    {
+      "email": "nurillo@gmail.com",
+      "password": "$2a$10$BCjU8NNLM5zG5LMDjqiUe.yP2DOdPd1MI/YTWVfC2gxcnlefrDJsu",
+      "firstname": "Nurillo",
+      "lastname": "Hayitov",
+      "id": 5
+    },
+    {
+      "email": "ziyodilla@gmail.com",
+      "password": "$2a$10$wXG6JD2cl.BRYrxlpoh4ceGtCcF0flbPrrOcBPacpDmHELxK9TWhW",
+      "firstname": "Ziyodilla",
+      "lastname": "Jumabaev",
+      "id": 6
+    }
+  ]
+}
